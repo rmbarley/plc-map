@@ -105,12 +105,12 @@
     .leaflet-popup-content {
       font:400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
       padding:0;
-      width:500px;
+      width:650px;
     }
     .leaflet-popup-content-wrapper {
       padding:0;
     }
-    .leaflet-popup-content h3 {
+    .leaflet-popup-content h2 {
       background:#000000;
       color:#fff;
       margin:0;
@@ -119,13 +119,17 @@
       border-radius:3px 3px 0 0;
       font-weight:700;
       margin-top:-15px;
+      /*width: 650px;*/
     }
     .leaflet-popup-content div {
       padding:10px;
     }
     .leaflet-container .leaflet-marker-icon { cursor:pointer; }
 
-    div #blurb { font-size: 10px; }
+    #blurb { 
+      font-size: 14px;
+      width: 650px;
+    }
 
 /* L.Control.Locate.mapbox.css
  * Version: 0.43.0 Date: 2015-05-27 
