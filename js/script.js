@@ -1,60 +1,9 @@
     L.mapbox.accessToken = 'pk.eyJ1Ijoicm1iYXJsZXkiLCJhIjoiY2lmaDVyeWlxYXZqdnJ4a25lMXd0Y205OSJ9.HpeUER_l8KN0T8OyMAcKIA';
-    var geojson = [
-        {
-          "type": "FeatureCollection",
-          "features": [
-            {
-             "type": "Feature",
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  -77.5940059,
-                  43.077969
-                ]
-              },
-            "properties": {
-              "name": "School of the Holy Childhood",
-              "phoneFormatted": "(585) 359-3710",
-              "phone": "5853593710",
-              "address": "100 Groton PKWY",
-              "city": "Rochester",
-              "country": "United States",
-              "postalCode": "14623",
-              "state": "NY",
-              "url": "http://holychildhood.org",
-              "icon": 'icons/daycare.png',
-              "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lacus est, consectetur in tincidunt nec, viverra non orci. Proin euismod, lectus vel placerat pharetra, nibh erat elementum arcu, quis sodales enim massa sed lectus. Aenean vitae fermentum felis, ac maximus nisl. Cras mauris urna, convallis sodales rhoncus non, venenatis non ligula. Nunc faucibus tempus tempus. Maecenas sagittis turpis eu elit pretium ultrices. Nulla non velit tincidunt, tempor arcu vel, tempus massa. Praesent laoreet ante nibh, vel tempus felis venenatis a. Pellentesque at ipsum ut neque tempus auctor."
-              }
-            },
-            {
-              "type": "Feature",
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  -77.641304,
-                  43.17958
-                ]
-              },
-             "properties": {
-                "name": "Mary's Place Outreach",
-                "phoneFormatted": " (585) 270-8626",
-                "phone": "5852708826",
-                "address": "Bldg. A 414 Lexington Ave",
-                "city": "Rochester",
-                "country": "United States",
-                "postalCode": "14613",
-                "state": "NY",
-                "url": "http://marysplaceoutreach.org/",
-                "icon": 'icons/world.png',
-                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lacus est, consectetur in tincidunt nec, viverra non orci. Proin euismod, lectus vel placerat pharetra, nibh erat elementum arcu, quis sodales enim massa sed lectus. Aenean vitae fermentum felis, ac maximus nisl. Cras mauris urna, convallis sodales rhoncus non, venenatis non ligula. Nunc faucibus tempus tempus. Maecenas sagittis turpis eu elit pretium ultrices. Nulla non velit tincidunt, tempor arcu vel, tempus massa. Praesent laoreet ante nibh, vel tempus felis venenatis a. Pellentesque at ipsum ut neque tempus auctor."
-              }
-            }
-          ]
-        }
-    ];
+
+    //var geojson = 
     var map = L.mapbox.map('map', 'examples.map-i80bb8p3')
     .setView([43.1656, -77.6114], 12);
-    
+
     L.control.locate({ keepCurrentZoomLevel: true }).addTo(map);
 
     var services = document.getElementById('services');
