@@ -157,6 +157,14 @@
 .leaflet-control-locate.active.following a {
   color: #FC8428;
 }
+input {
+    width: 500px;
+    font-size: 15px;
+}
+
+.leaflet-control-mapbox-geocoder.active .leaflet-control-mapbox-geocoder-wrap, .leaflet-control-mapbox-geocoder-wrap, .leaflet-control-mapbox-geocoder-results {
+  width: 500px;
+}
 
 /* Mapbox specific adjustments */
 .leaflet-control-locate a {
@@ -164,4 +172,9 @@
 }
 .leaflet-control-locate.requesting a {
   padding: 3px 0 0 4px;
+}
+
+input {
+  position: fixed;
+  padding-left: 500px;
 }
