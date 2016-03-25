@@ -1429,7 +1429,7 @@
                 "postalCode": "14620",
                 "state": "NY",
                 "url": "http://www.monroecounty.gov/eh-leadpoisoning.php%20",
-                "icon": "icon/medical.png",
+                "icon": "icons/medical.png",
                 "category": "Health_Medical",
                 "info": "Monroe County's Childhood Lead Poisoning Prevention Program maintains a database registry of more than 90,000 children who have been tested for elevated blood lead levels throughout Monroe County that includes all medical and environmental management information on each child. It provides medical case management and educational outreach to families for all children with blood lead levels >= 8 µg/dl (micrograms per deciliter). It conducts environmental investigations of primary and secondary residences of children 0-72 months of age with venous lead levels >= 8 µg/dl. Additionally, it provides community-wide education on lead poisoning issues to the general public, health professionals, property owners, painting contractors, parent groups, etc. Finally, it responds to complaints of improper/unsafe lead hazard control activities and issues Cease and Desist Orders to stop unsafe practices, order cleanup of lead contamination, and assures that cleanup is performed properly."
               }
@@ -1453,7 +1453,7 @@
                 "postalCode": "14607",
                 "state": "NY",
                 "url": "http://www.gccschool.org/",
-                "icon": "icon/school.png",
+                "icon": "icons/school.png",
                 "category": "Rochester City School District",
                 "info": "The Genesee Community Charter School - among the highest performing EL Education schools in the nation - is located on the campus of the Rochester Museum & Science Center. As a charter school, Genesee Community Charter School is publicly funded and there is no tuition.  Enrollment is open to all city of Rochester residents, and a lottery is held in April of each year for incoming kindergarten students and for vacancies as they are available in first through fifth grades. Admission to GCCS is not restricted based on a student’s intellectual ability, disability, race, ethnic background, or religion.  However, preference among applicants is given to siblings of GCCS students and, if open spaces remain, to children of staff members and, if spaces remain, to applicants who are residents of the Rochester City School District.  Suburban students are welcome to apply, but are enrolled after all RCSD applicants. A new application must be made each year; applications do not roll over from year to year."
               }
@@ -1477,7 +1477,7 @@
                 "postalCode": "14611",
                 "state": "NY",
                 "url": "http://www.unityhealth.org/community/services_community_homeless.aspx",
-                "icon": "icon/medical.png",
+                "icon": "icons/medical.png",
                 "category": ["Health_Medical", "Outreach"],
                 "info": "The Health Care for the Homeless Program (HCHP) provides comprehensive health care services for the homeless or those at-risk for homelessness in the city of Rochester and the greater Rochester area. The HCHP will, through its outreach model, seek to improve access to comprehensive medical care for the homeless individual, while simultaneously affording each individual access to services needed to obtain gainful employment, permanent housing and other resources that may be beneficial to their individual situation, without regard to the individual’s ability to pay."
               }
@@ -1501,7 +1501,7 @@
                 "postalCode": "14611",
                 "state": "NY",
                 "url": "http://www.unityhealth.org/community/services_community_homeless.aspx",
-                "icon": "icon/medical.png",
+                "icon": "icons/medical.png",
                 "category": ["Health_Medical", "Outreach"],
                 "info": "The Health Care for the Homeless Program (HCHP) provides comprehensive health care services for the homeless or those at-risk for homelessness in the city of Rochester and the greater Rochester area. The HCHP will, through its outreach model, seek to improve access to comprehensive medical care for the homeless individual, while simultaneously affording each individual access to services needed to obtain gainful employment, permanent housing and other resources that may be beneficial to their individual situation, without regard to the individual’s ability to pay."
               }
