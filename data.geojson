@@ -396,7 +396,7 @@
                 "hours": "M-F 8:00 a.m. - 6:00 p.m.",
                 "url": "http://www.psych.rochester.edu/MHFC/community-services/building-healthy-children/",
                 "icon": "icons/family.png",
-                "category": ["Family Centers", "Early Childhood Services", "Home VNS" "Parenting Resources"],
+                "category": ["Family Centers", "Early Childhood Services", "Home VNS", "Parenting Resources"],
                 "info": "Building Healthy Children is a collaboration between Mt. Hope Family Center, Strong Pediatrics and Strong Social Work to serve teen mothers and their children to improve family functioning and parent-child relationships. Each family will have an outreach worker who will provide supportive home visits, assistance with transportation and concrete needs and referral to other services. They will also have a social worker who will follow them in Pediatric clinic. Other services include employment assistance, interpersonal psychotherapy, and child-parent psychotherapy. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must receive pediatric care at Strong Pediatrics, Highland Family Medicine, Anthony Jordan Health Center, Rochester General Pediatrics Associates or Culver Medical Group. No more than 2 children in the family with both children being under age 3. Mother must have been under age 21 when her first child was born. Families must be TANF eligible. No current CPS involvement or prior CPS indicated reports, and no involvement with Preventative services." 
               }
             },
@@ -1310,7 +1310,7 @@
                 "category": ["Parenting Resources", "AIDS/HIV Testing"],
                 "info": "Planned Parenthood is one of the nation's leading providers of high-quality, affordable health care for women, men, and young people, and the nation's largest provider of sex education. Planned Parenthood offers birth control, emergency contraception, HIV testing, STD testing, treatment and vaccines, pregnancy testing and services, abortion services, women's health care and men's health care. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>  Accepts most health insurance, including Medicaid. If you are uninsured, you may qualify for a state-funded program or a lower fee scale. If you are uninsured and wish to qualify for this program, please bring the following documents: birth certificate, pay stub, photo ID, and proof of residence. If you plan to pay for your visit with a credit card that is not your own, you must bring a letter from the cardholder with you. <br><a href=\"https://www.docasap.com/mobile/cobranding/docasap_doctor_practice_schedule.php?&key_pracId=2354&key_map=1&key_lang=English&_ga=1.247009860.1397171139.1448240580&key_partner=PPFA \">Make an appointment online\/a>"
               }
-            }
+            },
             {
               "type": "Feature",
               "geometry": {
@@ -1973,6 +1973,6 @@
                 "category": "Shelters/Short-term housing",
                 "info": "Wilson Commencement Park (WCP) was established to help low-income, single-parent families transition from public assistance to financial independence and personal self-sufficiency. WCP is a transitional, drug-free program. It is a self-contained “community” where residents can live for 24 month in attractive and affordable housing and receive comprehensive care management, educational and life skills support, career-development assistance, and eventual placement in “next step” permanent housing. <br><a href=\"http://www.wilsoncommencementpark.com/family-support-services-2/supportive-housing/ \">Application<\/a>"
               }
-            },
+            }
           ]
         }
