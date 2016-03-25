@@ -22,6 +22,7 @@
               "hours": "Office: M-F 8:30 a.m. - 4:30 p.m.",
               "url": "http://holychildhood.org",
               "icon": "icons/disability.png",
+              "category": "Developmental Disabilities",
               "info": "The Holy Childhood is a non-denominational, non-profit agency that prepares children and adults with developmental disabilities for maximum independence and integration in the community through individualized programs and services. Programs and services include a school program, sheltered employment, transional dayhab, and a health center. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Serves children and adults with developmental disabilities."
               }
             },
@@ -46,6 +47,7 @@
                 "hours": "M-F 12:00 p/m/ - 5:00 p.m.",
                 "url": "http://marysplaceoutreach.org",
                 "icon": "icons/world.png",
+                "category": ["Advocacy", "Outreach"],
                 "info": "Mary’s Place is a refugee outreach center that serves newly arrived Americans from many different countries, including Burma, Nepal, Bhutan, Somalia and Sudan. Services include case management, ESOL classes, job training, food and clothing distribution, and after-school tutoring.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Serves refugees of all faiths and nationalities."
               }
             },
@@ -70,6 +72,7 @@
                 "hours": "Early Head Start: M-F 9:00 a.m. - 3:30 p.m. <br> Head Start, half day: M-Th 8:30 a.m. - 11:30 a.m. <br> Head start, full day: M-F 9:00 a.m. - 3:30 p.m.",
                 "url": "http://www.abcinfo.org",
                 "icon": "icons/school.png",
+                "category": ["ChildCare", "Early Childhood Services"],
                 "info": "Head Start is a free early education program serving low income pregnant women and children from birth to 5 years old. Children receive health, hearing, vision, developmental and behavioral screening upon enrollment.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must meet income requirements (below federal poverty level). <br><a href=\"http://www.abcinfo.org/head-start/recruitment-app\">Application<\/a>"
               }
             },
@@ -94,6 +97,7 @@
                 "hours": "Early Head Start: 9:00 a.m. - 3:30 p.m. M-F <br> Head Start, half day: 8:30 a.m. - 11:30 a.m. M-Th <br> Head start, full day: 9:00 a.m. - 3:30 p.m. M-F",
                 "url": "http://www.abcinfo.org",
                 "icon": "icons/school.png",
+                "category": ["ChildCare", "Early Childhood Services"],
                 "info": "Head Start is a free early education program serving low income pregnant women and children from birth to 5 years old. Children receive health, hearing, vision, developmental and behavioral screening upon enrollment.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must meet income requirements (below federal poverty level). <br><a href=\"http://www.abcinfo.org/head-start/recruitment-app\">Application<\/a>"
               }
             },
@@ -118,6 +122,7 @@
                 "hours": "Head Start, half day: M-Th 8:30 a.m. - 11:30 a.m. <br> Head start, full day: M-F 9:00 a.m. - 3:30 p.m.",
                 "url": "http://www.abcinfo.org",
                 "icon": "icons/school.png",
+                "category": ["ChildCare", "Early Childhood Services"],
                 "info": "Head Start is a free early education program serving low income pregnant women and children from birth to 5 years old. Children receive health, hearing, vision, developmental and behavioral screening upon enrollment.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must meet income requirements (below federal poverty level). <br><a href=\"http://www.abcinfo.org/head-start/recruitment-app\">Application<\/a>"
               }
             },
@@ -142,6 +147,7 @@
                 "hours": "Head Start, half day: M-Th 8:30 a.m. - 11:30 a.m. <br> Head start, full day: M-F 9:00 a.m. - 3:30 p.m.",
                 "url": "http://www.abcinfo.org",
                 "icon": "icons/school.png",
+                "category": ["ChildCare", "Early Childhood Services"],
                 "info": "Head Start is a free early education program serving low income pregnant women and children from birth to 5 years old. Children receive health, hearing, vision, developmental and behavioral screening upon enrollment.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must meet income requirements (below federal poverty level). <br><a href=\"http://www.abcinfo.org/head-start/recruitment-app\">Application<\/a>"
               }
             },
@@ -166,6 +172,7 @@
                 "hours": "Head Start, half day: M-Th 8:30 a.m. - 11:30 a.m. <br> Head start, full day: M-F 9:00 a.m. - 3:30 p.m.",
                 "url": "www.abcinfo.org",
                 "icon": "icons/school.png",
+                "category": ["ChildCare", "Early Childhood Services"],
                 "info": "Head Start is a free early education program serving low income pregnant women and children from birth to 5 years old. Children receive health, hearing, vision, developmental and behavioral screening upon enrollment.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must meet income requirements (below federal poverty level). <br><a href=\"http://www.abcinfo.org/head-start/recruitment-app\">Application<\/a>"
               }
             },
@@ -190,6 +197,7 @@
                 "hours": "Office: M-F 8:00 a.m. - 4:30 p.m. Varies according to program. Call for information.",
                 "url": "http://www.abvi-goodwill.org",
                 "icon": "icons/eye.png",
+                "category": ["Health_Medical", "Outreach"],
                 "info": "The Low Vision Center: The Low Vision Center works with consumers to maximize their remaining vision using specially prescribed lenses and visual aids. <br> Daily Living Skills: Home visits and small group training help individuals learn new ways to accomplish house-hold and other tasks using adaptive equipment and methods. <br> Employment Services: ABVI-Goodwill provides specialized job training and employment opportunities to help people who are blind or visually impaired enter or return to the workforce. <br> Project Eye Care: A program designed to prevent vision problems and treatable eye disease for uninsured adults in our community. Free eye exams are provided by local eye doctors who volunteer their time. Eyeglasses are donated by partnering optical centers. <br> Vision Care for Kids: Free eye exams and glasses for uninsured school-age children, grades K- 1 <br> Early Vision Screening: Free vision screenings are provided at local child care centers and preschools for children  6 months to five years. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> serves blind people and the uninsured population."
               }
             },
@@ -214,6 +222,7 @@
                 "hours": "Meetings every day at different locations throughout the US. See the website or call for a list of meetings.", 
                 "url": "http://www.al-anon.alateen.org",
                 "icon": "icons/support.png",
+                "category": "Addiction",
                 "info": "Al-Anon and Ala-teen are support groups for those who are friends or relatives of people with alcoholism. Al-Anon members support each other through listening to each other and sharing their experiences, strength, and hope with one another. There are meetings every day of the week at different locations throughout the United States. Please see the website or call for a list of meetings. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> All friends and family of those affected by addiction are welcome."
               }
             },
@@ -238,6 +247,7 @@
                 "hours": "Office: M-F 8:00 a.m. - 4:30 p.m. Health clinic: M-F 8:00 a.m. - 4:30 p.m. Evening and Saturday appointments can be arranged.",
                 "url": "http://www.arcmonroe.org",
                 "icon": "icons/disability.png",
+                "category": "Developmental Disabilities",
                 "info": "The Arc of Monroe County provides a variety of programs and services for people with intellectual and/or developmental disabilities and their families in the Rochester community, including residential care, employment training, healthcare, day habilitation, and support services. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Individuals must meet eligibility requirements as outlined by The New York State Office for People with Developmental Disabilities (OPWDD) in order to enroll in the programs and services offered at The Arc of Monroe County. To see if your family is eligible, contact our Community Outreach Coordinator at 585-286-9607."
               }
             },
@@ -262,6 +272,7 @@
                 "hours": "M-F 9:00 a.m. - 5:00 p.m.",
                 "url": "http://www.arthritis.org/new-york/",
                 "icon": "icons/support.png",
+                "category": "Health_Medical",
                 "info": "The Arthritis Foundation offers information and tools to help people live a better life with arthritis. The Arthritis Foundation offers services such as Aquatic, Tai Chi and other exercise programs as well as a self-help group education program. <br> <span style=\"font-weight: bold;\">Eligibility:<\/span> Open to anyone affected by arthritis."
               }
             },
@@ -286,6 +297,7 @@
                 "hours": "M-F 9:00 a.m. - 5:00 p.m. Call for information.",
                 "url": "https://www.urmc.rochester.edu/childrens-hospital/social-work/baby-love.aspx/",
                 "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Home VNS", "Parenting Resources"],
                 "info": "Baby Love is a prenatal outreach program administered by URMC Strong Hospial’s Social Work division that works with pregnant women and their families in obtaining health care services and promoting healthy behavioral choices. Services include social work assessment, referral for and coordination with prenatal, pediatric, and community service providers, assistance with prescriptions for the mother, baby, or family, supportive home visits, prenatal and parent intervention, transportation help, and crisis intervention. <br> <span style=\"font-weight: bold;\">Eligibility:<\/span> To be eligible for Baby Love services you must be pregnant, less than 30 weeks gestation, and have insurance through one of the following: Blue Choice Option, Family Health Plus, Child Health Plus or Medicaid Managed Care. You may also qualify if you reside in the City of Rochester and are interested in a program combining Baby Love and Parents as Teachers."
               }
             },
@@ -310,6 +322,7 @@
                 "hours": "Office: M-F 9:00 a.m. - 5:00 p.m. Access to on-call staff: M-F 8:00 a.m. - 10:00  p.m. Weekends and holidays: 10:00 a.m. - 10:00 p.m..  Many programs offer activities in the evenings and on Saturdays.",
                 "url": "https://www.mharochester.org/",
                 "icon": "icons/counsel.png",
+                "category": "Health_Medical",
                 "info": "Mental Health Association offers information and referrals to existing mental health and community services, self-help group services, educational programs and advocacy on issues relating to mental health and illness. Some services include parenting classes, coping strategies for families to handle stress in the home, and teen support groups. <br> <span style=\"font-weight: bold;\">Eligibility:<\/span> Open to all."
               }
             },
@@ -334,6 +347,7 @@
                 "hours": "Weekdays and weekends 5:00 p.m. - 9:00 p.m. Warm line available 5:00 p.m. - 9:30 p.m. all days.",
                 "url": "https://www.mharochester.org/Default.aspx?RD=2879/",
                 "icon": "icons/counsel.png",
+                "category": "Health_Medical",
                 "info": "Mental Health Association Self-Help Drop in and Warm Line provides support to individuals who need someone to talk to outside of their regular mental health care. Support is provided by individuals who have overcome mental health concerns and now offer support to others as they find their own path to mental wellness. <br> <span style=\"font-weight: bold;\">Eligibility:<\/span> Open to all."
               }
             }, 
@@ -357,6 +371,7 @@
                 "state": "NY",
                 "url": "http://www.bgclubrochester.org",
                 "icon": "icons/youth.png",
+                "category": "Children's Centers",
                 "info": "The Boys and Girls Club of Rochester is a recreation center that provides programs and services to community youth. Examples of programs and services include: soccer, bicycling, basketball, arts and crafts, cooking and nutrition classes, tutoring, family support services, and Medicaid service coordination. <br> <span style=\"font-weight: bold;\">Eligibility:<\/span> The recreation center is associated to all youth ages 6- 18 in the Rochester area including those who are developmentally disabled.  <br> <a href=\"http://www.bgcrochester.org/LinkClick.aspx?fileticket=ecAfqFfE67o%3d&tabid=74\">Application<\/a>"
               }
             },
@@ -381,6 +396,7 @@
                 "hours": "M-F 8:00 a.m. - 6:00 p.m.",
                 "url": "http://www.psych.rochester.edu/MHFC/community-services/building-healthy-children/",
                 "icon": "icons/family.png",
+                "category": ["Family Centers", "Early Childhood Services", "Home VNS" "Parenting Resources"],
                 "info": "Building Healthy Children is a collaboration between Mt. Hope Family Center, Strong Pediatrics and Strong Social Work to serve teen mothers and their children to improve family functioning and parent-child relationships. Each family will have an outreach worker who will provide supportive home visits, assistance with transportation and concrete needs and referral to other services. They will also have a social worker who will follow them in Pediatric clinic. Other services include employment assistance, interpersonal psychotherapy, and child-parent psychotherapy. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must receive pediatric care at Strong Pediatrics, Highland Family Medicine, Anthony Jordan Health Center, Rochester General Pediatrics Associates or Culver Medical Group. No more than 2 children in the family with both children being under age 3. Mother must have been under age 21 when her first child was born. Families must be TANF eligible. No current CPS involvement or prior CPS indicated reports, and no involvement with Preventative services." 
               }
             },
@@ -405,6 +421,7 @@
                 "hours": "Lunch M-Sa 12:00 p.m. - 1:30 pm; After School Program: M-F 3:30 p.m. - 6:30 pm; Sunday Celebration Dinner: every Sunday at 4:30 p.m.; Clothing House: T-Th 9:30 a.m. - 12:30 p.m.; Food Pantry by appointent T-F 9:00 a.m. - 11:00 a.m.",
                 "url": "http://www.cameronministries.org",
                 "icon": "icons/community.png",
+                "category": ["Foodbanks", "Children's Centers"],
                 "info": "Cameron Community Ministries is an Urban Outreach Community Center in the Lyell-Otis Neighborhood of Rochester, NY. Cameron Community Ministries offers many programs including Youth After-School and Summer programs, a free hot meal program that serves lunch daily, an emergency food pantry and a clothing house that serves community members in need of clothing and housewares.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Open to any individuals living in Rochester, NY." 
               }
             },
@@ -428,6 +445,7 @@
                 "state": "NY",
                 "url": "http://c1d.3ca.myftpupload.com/",
                 "icon": "icons/youth.png",
+                "category": ["Foodbanks", "Parenting Resources"],
                 "info": "Celebration of Life Community, Inc. is a grassroots not-for-profit organization dedicated to improving graduation rates in the City of Rochester. Celebration of Life advocates for the betterment of individuals, children and families through workshops such as Help Me Read, a one on one tutoring program designed to help elementary school students. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Help Me Read serves RCSD students from kindergarten through grade 6." 
               }
             },
@@ -452,6 +470,7 @@
                 "hours": "M-F 8:00 a.m. - 5:00 p.m.",
                 "url": "http://www.charlessettlementhouse.org/index.php?option=com_content&view=section&id=6&Itemid=65",
                 "icon": "icons/community.png",
+                "category": "Parenting Resources",
                 "info": "Charles Settlement House is the a comprehensive human service provider centered in Northwest Rochester which offers neighborhood-based programs for approximately 3000 children, teens, families and seniors each year. The Jay Street office houses the Family Services Department. Case Workers assist adults with employment, housing, agency forms, advocacy, counseling, budgeting & financial literacy, home repairs and lead remediation, and service coordination. Bilingual (English/Spanish) staff provides translation services. Caseworkers help families resolve crises and work toward increased stability and improved quality of life. There is also a food pantry and clothing closet. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must live in Northwest Rochester." 
               }
             },
@@ -476,6 +495,7 @@
                 "hours": "M-F 8:00 a.m. - 5:00 p.m.",
                 "url": "http://www.charlessettlementhouse.org/index.php?option=com_content&view=article&id=82&Itemid=87",
                 "icon": "icons/community.png",
+                "category": "Parenting Resources",
                 "info": "Charles Settlement House is the a comprehensive human service provider centered in Northwest Rochester which offers neighborhood-based programs for approximately 3000 children, teens, families and seniors each year. The Parkway office houses the Northwest Rochester Senior Center, the Notre Dame Learning Center, Edgerton Family Day Care, and Bubbles Universal Pre-Kindergarten. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must live in Northwest Rochester." 
               }
             },
@@ -500,6 +520,7 @@
                 "hours": "M-F 8:00 a.m. - 5:00 p.m.",
                 "url": "http://www.charlessettlementhouse.org/index.php?option=com_content&view=article&id=82&Itemid=87",
                 "icon": "icons/community.png",
+                "category": "Parenting Resources",
                 "info": "Charles Settlement House is the a comprehensive human service provider centered in Northwest Rochester which offers neighborhood-based programs for approximately 3000 children, teens, families and seniors each year. The Activity Center is the site for the group work programs: preschool development, after school and evening programs for school age youth and teens, parents, group activities, etc. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must live in Northwest Rochester." 
               }
             },
@@ -524,6 +545,7 @@
                 "hours": "M-F 9:00 a.m. - 12:30 p.m.; 1:30 p.m. - 5:00 p.m.",
                 "url": "http://www.nycourts.gov/courts/7jd/courts/family/county/monroe/ww.courts.state.ny.us",
                 "icon": "icons/daycare.png",
+                "category": "Legal_Emergency Services",
                 "info": "The Children’s Center is a drop-off childcare center for children whose families are in court. The Children’s Center also provides a setting in which families can be linked to needed services. Children with indication of developmental delays are referred to community agencies for follow-up such as Early Intervention. WIC, Temporary Assistance and Medicaid applications are completed and submitted. Enrollment site for Head Start. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Serves children whose families are in court." 
               }
             },
@@ -548,6 +570,7 @@
                 "hours": "M-F 8:30 a.m. - 5:00 p.m.",
                 "url": "http://www.communityplace.org/programs/aging/",
                 "icon": "icons/senior.png",
+                "category": ["Developmental Disabilities", "Health_Medical", "Outreach"],
                 "info": "At the senior center, older adults participate in daily activities that support socialization and independent living. Activities include: exercise programs; computer classes; music, arts and crafts; nutrition education, access to exercise equipment, and day trips. A meal is served daily and transportation assistance is provided as needed. Care management is also available. <br> Foster Grandparent program: The Foster Grandparent Program offers older adults the opportunity to assist children enrolled in educational programs at 36 area schools and childcare centers to succeed. <br>Senior companion Program: The Senior Companion Program offers older adults the opportunity to assist frail elders at area adult day programs, senior centers and in their homes.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Must be a resident of Northeast Rochester. Senior center: ages 60 and up. Care management: ages 60 and up. Foster grandparents and senior companions: ages 55 and up and must meet income eligibility requirements.<br><a href=\"http://www.communityplace.org/wp-content/uploads/2013/04/Foster-Grandparent-Sr-Comp-AppEnglish1.pdf \">Foster Grandparent and Senior Companion Application<\/a><br><a href=\"http://www.communityplace.org/wp-content/uploads/2013/04/Sr-Companion-referral-form1.pdf \">Senior Companion Program Frail Elder Referral<\/a>"
               }
             },
@@ -561,7 +584,7 @@
                 ]
               },
              "properties": {
-                "name": "Compassion Net",
+                "name": "CompassionNet",
                 "phoneFormatted": "1-800-308-3914",
                 "phone": "18003083914",
                 "address": "3111 Winton Road South",
@@ -571,7 +594,8 @@
                 "state": "NY",
                 "url": "https://lifetimecare.org/support-wellness/compassionnet",
                 "icon": "icons/medical.png",
-                "info": "Compassion Net is a program for families with children facing a potentially life-threatening condition. When a child is diagnosed with a potentially life-threatening illness, the Compassion Net team will work closely with hospital staff and primary care providers to help support the child, siblings and family through diagnosis, treatment, stabilization, cure, or at times, end of life and bereavement. Each family is assigned a Case Manager and has access to the Pediatric Palliative Care Medical Team and Child Life Specialists. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> To be eligible, a child must a) be diagnosed with a condition that places the child at significant risk for not reaching adulthood (age 21), OR b) have acute exacerbation of a chronic illness that places the child at immediate risk. Additionally, the child must be 21 years of age or younger and be currently enrolled in a health insurance program managed by Excellus BlueCross BlueShield."
+                "category": ["Health_Medical", "Home VNS"],
+                "info": "CompassionNet is a program for families with children facing a potentially life-threatening condition. When a child is diagnosed with a potentially life-threatening illness, the CompassionNet team will work closely with hospital staff and primary care providers to help support the child, siblings and family through diagnosis, treatment, stabilization, cure, or at times, end of life and bereavement. Each family is assigned a Case Manager and has access to the Pediatric Palliative Care Medical Team and Child Life Specialists. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> To be eligible, a child must a) be diagnosed with a condition that places the child at significant risk for not reaching adulthood (age 21), OR b) have acute exacerbation of a chronic illness that places the child at immediate risk. Additionally, the child must be 21 years of age or younger and be currently enrolled in a health insurance program managed by Excellus BlueCross BlueShield."
               }
             }, 
             {
@@ -584,7 +608,7 @@
                 ]
               },
              "properties": {
-                "name": "CP Rochester Augustin Children's Center",
+                "name": "CP Rochester/Augustin Children's Center",
                 "phoneFormatted": "(585) 334-6000 x1212",
                 "phone": "5853346001212",
                 "address": "3399 Winton Road South",
@@ -594,7 +618,8 @@
                 "state": "NY",
                 "url": "http://cprochester.org/augustin.asp",
                 "icon": "icons/school.png",
-                "info": "CP Rochester Augustin Children’s Center is an intervention facility for children with disabilities from birth to age three, as well as a preschool for children with and without disabilities from age three to five. The Center boasts a number of features not offered by other providers such as a warm-water indoor pool, large gymnasium with stage, outdoor exploratory classroom, large playground with ‘safe surface,’ and fully-integrated classrooms and programs. <br><span style=\"font-weight: bold;\">Eligibility:<\/span><br> Early intervention: To determine your child’s eligibility, contact the Monroe County Early Intervention Program at 585-753-5437. Eligibility will be determined by a NYS-approved evaluator contracted by Monroe County. If your child is eligible, services will be implemented at no cost to you. <br> Preschool: available to all children ages 4-5"
+                "category": "Early Childhood Services",
+                "info": "CP Rochester/Augustin Children’s Center is an intervention facility for children with disabilities from birth to age three, as well as a preschool for children with and without disabilities from age three to five. The Center boasts a number of features not offered by other providers such as a warm-water indoor pool, large gymnasium with stage, outdoor exploratory classroom, large playground with ‘safe surface,’ and fully-integrated classrooms and programs. <br><span style=\"font-weight: bold;\">Eligibility:<\/span><br> Early intervention: To determine your child’s eligibility, contact the Monroe County Early Intervention Program at 585-753-5437. Eligibility will be determined by a NYS-approved evaluator contracted by Monroe County. If your child is eligible, services will be implemented at no cost to you. <br> Preschool: available to all children ages 4-5"
               }
             },
             {
@@ -618,6 +643,7 @@
                 "hours": "M-F 8:00 a.m. - 5:00 p.m. Other hours by appointment.",
                 "url": "https://www.hillside.com/services/",
                 "icon": "icons/counsel.png",
+                "category": "Family Centers",
                 "info": "Crestwood offers an array of behavioral and mental health services to children ages birth to 26 years and their families. Crestwood serves children and youth and their families in need of residential, outpatient, or day services for significant mental health issues. Crestwood also has Family Resource Centers that offer early childhood education and parent training programs in Rochester neighborhoods. <br><span style=\"font-weight: bold;\">Eligibility:<\/span><br> Day treatment program: ages 3-12 <br> Residential program: ages 5-18; IQ 50 or above."
               }
             },
@@ -642,6 +668,7 @@
                 "hours": "Open all year including weekends and holidays, 24 hours a day.",
                 "url": "http://centerforyouth.net/programs/crisis-nursery",
                 "icon": "icons/daycare.png",
+                "category": "Early Childhood Services",
                 "info": "The Crisis Nursery of Greater Rochester provides a safe, nurturing environment for children whose families are in crisis. The Crisis Nursery’s primary goal is to provide temporary care for children at risk of abuse and neglect, while offering support services to families and caregivers. Children can live at the nursery short term and be, cared for by a trained staff and child care workers. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> The Crisis Nursery serves children ages newborn to 14; the program is certified to accept children up to age 17 to keep siblings together."
               }
             },
@@ -665,6 +692,7 @@
                 "state": "NY",
                 "url": "http://www.daystarkids.org/",
                 "icon": "icons/daycare.png",
+                "category": ["Advocacy", "Early Childhood Services", "Family Centers", "Parenting Resources"],
                 "info": "Daystar provides a year-round full-day program for children with critical healthcare needs. Daystar's core services model incorporates expert pediatric nursing and respite care, therapeutic and educational enrichment programs, and family training, support, and advocacy services, inlcuding care coordination and transitional services for children leaving early intervention programs and entering school-based systems of care.<br> <span style=\"font-weight: bold;\">Eligibility:<\/span> Children must be between 6 months and 5 years old and meet Daystar’s medical eligibility criteria. <br> <a href=\"http://www.daystarkids.org/#!admissions/cxpp \">Application<\/a>"
               }
             },
@@ -688,6 +716,7 @@
                 "state": "NY",
                 "url": "http://www2.monroecounty.gov/hd-ei-home",
                 "icon": "icons/baby.png",
+                "category": "Early Childhood Services",
                 "info": "Early Intervention is a national program that provides many different types of early intervention services to families of eligible infants and toddlers with disabilities and suspected developmental delays. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> All children under 3 who have a disability or developmental delay. Anyone may refer, as long as the parent does not object. <br> <a href=\"http://www2.monroecounty.gov/files/health/EI/Referral%20Form.pdf \">Application<\/a>"
               }
             },
@@ -712,6 +741,7 @@
                 "hours": "M-F 8:00 a.m. - 4:30 p.m.",
                 "url": "http://epiny.org/",
                 "icon": "icons/support.png",
+                "category": "Health_Medical",
                 "info": "Epilepsy-Pralid, Inc. is a non-profit human services agency that helps individuals and families affected by epilepsy, traumatic brain injury, and related disabilities to manage and cope with their disorders by providing epilepsy education, information and referral, service coordination, vocational and residential services. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Individuals and family affected by epilepsy, traumatic brain injury, and related conditions. Please call for specific eligibility criteria for different programs. <br><a href=\"http://epiny.org/downloads/EPI-Intake-Application.pdf \">Intake Application<\/a>"
               }
             }, 
@@ -736,6 +766,7 @@
                 "hours": "M-F 8:00 a.m. - 4:30 p.m.",
                 "url": "http://epiny.org/",
                 "icon": "icons/support.png",
+                "category": "Health_Medical",
                 "info": "Epilepsy-Pralid, Inc. is a non-profit human services agency that helps individuals and families affected by epilepsy, traumatic brain injury, and related disabilities to manage and cope with their disorders by providing epilepsy education, information and referral, service coordination, vocational and residential services. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Individuals and family affected by epilepsy, traumatic brain injury, and related conditions. Please call for specific eligibility criteria for different programs.<br><a href=\"http://epiny.org/downloads/EPI-Intake-Application.pdf \">Intake Application<\/a>"
               }
             }, 
@@ -760,6 +791,7 @@
                 "hours": "M-F 9:00 a.m. - 3:00 p.m.",
                 "url": "http://www.rcsdk12.org/Domain/7158",
                 "icon": "icons/family.png",
+                "category": "Family Centers",
                 "info": "The Peter Castle Family Resource Center works in partnership with families to foster the development of young children and to inspire the growth of parents as their child’s most valuable teacher. Services include parenting education groups and Early Childhood Education. The Peter Castle Family Resource Center is a Universal pre-K site." 
                 }
             }, 
@@ -784,6 +816,7 @@
                 "hours": "M-F 9:00 a.m. - 3:00 p.m.",
                 "url": "http://www.rcsdk12.org/Page/25371",
                 "icon": "icons/family.png",
+                "category": "Family Centers",
                 "info": "The Southwest Family Resource Center works to foster the development of young children and inspire the growth of parents as their child's most valuable teacher. Services include parenting education groups and neighborhood-based family support and home visiting programs. The Southwest Family Resource Center is a universal pre-K site. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Services are available to all families of young children living in Rochester." 
               }
             },
@@ -808,6 +841,7 @@
                 "hours": "M-F 9:00 a.m. - 3:00 p.m.",
                 "url": "http://www.gildasclubrochester.org",
                 "icon": "icons/family.png",
+                "category": "Health_Medical",
                 "info": "Gilda’s Club Rochester is a 'clubhouse' where men, women and children can share their hopes and fears, their wisdom and information, and come together to learn how to live with cancer whatever the outcome. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Anyone whose life is affected by cancer—whether it is themselves, or a family member or friend with cancer—can join Gilda’s Club and participate in the many support groups and other activities available there. <br><a href=\"https://www.gildasclubrochester.org/contact-us \">Join<\/a>" 
               }
             },
@@ -831,6 +865,7 @@
                 "state": "NY",
                 "url": "http://www.ccsi.org/navigator-program.aspx",
                 "icon": "icons/family.png",
+                "category": ["Legal_Emergency Services", "Health_Medical"],
                 "info": "The In-Person Assistor / Navigator program provides one-on-one assistance for individuals and small businesses interested in shopping for and enrolling in health insurance through The New York State of Health. Navigators are available to meet with individuals, families and small businesses at various locations throughout the community to provide education about the different types of health insurance plans offered through the New York State of Health marketplace and to assist with enrollment into public insurance programs and qualified health plans. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Anyone in Monroe and Livingston County who needs assistance applying for health insurance. <br><a href=\"https://www.surveygizmo.com/s3/1890894/Navigator-Appointment-Request \">Appointment Request<\/a>" 
               }
             },  
@@ -854,6 +889,7 @@
                 "state": "NY",
                 "url": "http://spirituschristiprisonoutreach.org/index.php/programs/jennifer",
                 "icon": "icons/family.png",
+                "category": ["Outreach", "Parenting Resources", "Shelters/Short-term housing", "Addiction"],
                 "info": "The Jennifer House is a residential facility created under the Spiritus Christi Prison Outreach Women's Program. The Jennifer House provides shelter and a structured residential program for women upon their release from prison, jail, inpatient and the streets. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>  Jennifer House is available specifically for women who are released from jail and their children. Jennifer House also works closely with local chemical dependency inpatient facilities to provide housing to women in need and link them to additional resources in the community as needed. <br><a href=\"https://www.surveygizmo.com/s3/1890894/Navigator-Appointment-Request \">Appointment Request<\/a>" 
               }
             },  
@@ -878,6 +914,7 @@
                 "hours": "Daycare: M-F 6:30 a.m. - 6:00 p.m.; Pre-k: 9:00 a.m. - 3:00 p.m.",
                 "url": "http://www.rcsdk12.org/Domain/7156",
                 "icon": "icons/family.png",
+                "category": ["Early Childhood Services", "Rochester City School District"],
                 "info": "Lakeside Child and Family Center is a day care center serving children 6 weeks old to 10 years old.  Lakeside also has a Rochester city School District Universal Pre-K program. Also offers Monthly parent-child interaction events and family socials with a focus on early childhood development and the importance of play.<br><span style=\"font-weight: bold;\">Eligibility:<\/span>  Daycare open to children ages 6 weeks to 10 years." 
               }
             },
@@ -901,6 +938,7 @@
                 "state": "NY",
                 "url": "http://www.lifespan-roch.org/",
                 "icon": "icons/family.png",
+                "category": "Adult/Elder Services",
                 "info": "Lifespan helps older adults and caregivers take on the challenges and opportunities of longer life.  Lifespan is a trusted source of unbiased information, guidance and more than 30 services and advocacy for older adults and caregivers." 
               }
             }, 
@@ -925,6 +963,7 @@
                 "hours": "M-F 8:30 a.m. - 4:00 p.m.; Weekends and holidays: 9:00 a.m. - 1:00 p.m.",
                 "url": "https://static1.squarespace.com/static/531f242de4b0467fe7ea5084/t/5436a74ae4b020db7f08bb18/1412867914019/WolkCenterBrochure.pdf",
                 "icon": "icons/family.png",
+                "category": "Adult/Elder Services",
                 "info": "The Wolk Older Adult Center is Lifespan's downtown location. Lifespan provides information, guidance and services that help older adults take on both the challenges and opportunities of the second half of life. Breakfast and lunch served daily.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Adults ages 60 and older." 
               }
             },
@@ -949,6 +988,7 @@
                 "hours": "M-F 8:30 a.m. - 4:00 p.m.",
                 "url": "http://rochesterymca.org/lily-cafe",
                 "icon": "icons/family.png",
+                "category": "Family Centers",
                 "info": "The Caroline 'Lily' Lobozzo Aging Resource Center promotes successful aging by providing an engaging atmosphere encompassing mind, body and spirit. By creating a space full of celebration and friends, the Lily Cafe combats isolation, promotes community, and encourages life-long learning. Lunch served daily. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> YMCA members ages 60 and older. <a href=\"https://application.rochesterymca.org/Membership/SignupForm?CampID=c7abe942-0e25-40df-ba5b-71687228813f \">Maplewood YMCA Membership Application<\/a> <br> <a href=\"http://rochesterymca.org/sites/default/files/2012%20Financial%20Assistance%20Application_7.pdf \">Application for Financial Assistance<\/a>" 
               }
             },
@@ -973,6 +1013,7 @@
                 "hours": "M-F 8:30 a.m. - 4:00 p.m.",
                 "url": "http://rochesterymca.org/mvp-center",
                 "icon": "icons/family.png",
+                "category": "Family Centers",
                 "info": "The MVP Health Care Living Well Center promotes successful aging by providing an engaging atmosphere encompassing mind, body, and spirit.  By creating a space full of celebration and friends, the MVP Health Care Living Center combats isolation, promotes community, and encourages life-long learning. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> YMCA members ages 60 and older. <a href=\"https://application.rochesterymca.org/Membership/SignupForm?CampID=04977c2d-250d-477b-bf5d-acd08ed7f8d0 \">Westside YMCA Membership Application<\/a> <br> <a href=\"http://rochesterymca.org/sites/default/files/2012%20Financial%20Assistance%20Application_7.pdf \">Application for Financial Assistance<\/a>" 
               }
             },
@@ -997,6 +1038,7 @@
                 "hours": "M-F 8:30 a.m. - 5:00 p.m.",
                 "url": "https://www.lifetimecare.org/",
                 "icon": "icons/family.png",
+                "category": "Home VNS",
                 "info": "Lifetime Care delivers compassionate, personalized health care for all adults and children who are ill, injured, dying or grieving. Services include skilled nursing, home monitoring, rehabilitation services, infusion therapy, medical social work, home health aides, and hospice care. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> See website or call for eligibility requirements for specific services. Lifetime Care accepts most major insurance plans including: Medicare, Medicaid, Excellus BlueCross BlueShield, MVP, United Healthcare and many other health insurance plans." 
               }
             },
@@ -1021,6 +1063,7 @@
                 "hours": "AM Pre-school: M-F 8:45 a.m. - 11:15 a.m. <br> PM preschool: 12:30 p.m. – 3:00 p.m. <br> Full-Day Preschool: 9:00 a.m. – 2:30 p.m. <br> School age: 8:45 a.m. - 2:45 p.m.",
                 "url": "http://www.marycariola.org/",
                 "icon": "icons/family.png",
+                "category": ["Early Childhood Services", "Health_Medical", "Children's Centers"],
                 "info": "Mary Cariola Children’s Center is a local, private, non-profit agency serving children and families in Monroe County, New York and surrounding areas.  The center provides the highest quality individualized services for children with developmental delays, and especially for those with complex or multiple disabilities. Programs include pre-school, school age programs, and residential programs. Tuition for students is paid either by the county or the school district. Please call for referral questions. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Children with developmental disabilities who range in age from 3 to 21 receive individually prescribed educational and therapeutic programs at the center. All children enrolled at Mary Cariola must be referred by a third party." 
               }
             },  
@@ -1044,6 +1087,7 @@
                 "state": "NY",
                 "url": "http://www.teenslivingwithcancer.org/",
                 "icon": "icons/family.png",
+                "category": ["Health_Medical", "Outreach"],
                 "info": "Teens Living Cancer provides regular weekly activities for teens, both in the midst of cancer treatment and beyond it. Teens Living with Cancer's vision is that all teens with cancer have opportunities for life-affirming experiences throughout each stage of their disease. The TLC Center hosts regular activities and programs for teens to help guide them through the challenges of cancer. It also hosts a parent-networking group to help provide parents with support and resources to navigate their teen’s experience. Hospital visits by the program coordinator are regularly available, and usually serve as a newly diagnosed teen’s first introduction to the program. TLC also offers an online support community. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Teens living with cancer and their families." 
               }
             },
@@ -1068,6 +1112,7 @@
                 "hours":"Monthly meetings Mondays, Sept-June: see website for dates and hours",
                 "url": "http://www.mendedheartsrochester.org",
                 "icon": "icons/family.png",
+                "category": "Health_Medical",
                 "info": "Mended Hearts is a national non-profit organization with over 300 chapters and satellites nationwide that offers hope and encouragement for recovery, and hope for a rich, full life for heart patients, their families and their caregivers. Mended Hearts works to bring together the patients, spouses, family members, friends, and medical professionals who are faced with the realities of heart disease in order to form a network of caring individuals. Services include an in-person visiting program, internet visits/phone support, group meetings, a generational outreach program, and an annual national conference. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Services available to patients recovering from heart procedures and surgery and their families. <br><a href=\"http://www.mendedheartsrochester.org/joinus/application.pdf \">Membership Application<\/a>" 
               }
             },
@@ -1091,6 +1136,7 @@
                 "state": "NY",
                 "url": "https://mlhrochesterny.shutterfly.com/",
                 "icon": "icons/family.png",
+                "category": "Health_Medical",
                 "info": "The Mended Little Hearts program works nationally and in communities to support children with congenital heart defects and their families. Services include an in-person visiting program, internet visits/phone support, group meetings, a generational outreach program, and a national conference.  <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Membership is free and open not only to parents and caregivers of children with heart conditions, but also to heart defect survivors, extended family members, healthcare partners, neighbors, friends and anyone else interested in furthering the outreach and support network of MLH.<br><a href=\"https://mendedlittlehearts.gnosishosting.net/Apply-For-Membership/Membership-Application \">Membership Application<\/a>" 
               }
             },
@@ -1115,6 +1161,7 @@
                 "Hours": "M-F 9:00 a.m. - 5:00 p.m. Call for appointments.",
                 "url": "http://www.mercycommunityservices.org/",
                 "icon": "icons/medical.png",
+                "category": ["Health_Medical", "Outreach"],
                 "info": "Mercy Outreach Center provides access to health care, dental care and other human services for the uninsured and underserved children, women and men of the greater Rochester area. These services are provided free of charge.  The Center also networks with various agencies and neighborhood groups to help access services beyond those provided at the Center, including referrals to public assistance, income tax support, and legal consultation. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Serves men, women and children who need primary health care and have no health insurance, people who need dental care and have no dental insurance, and people who have Medicaid who need chiropractic and other care that Medicaid does not cover." 
                }
               },
@@ -1138,6 +1185,7 @@
                 "state": "NY",
                 "url": "http://www.psych.rochester.edu/MHFC/",
                 "icon": "icons/medical.png",
+                "category": "Early Childhood Services",
                 "info": "The Mount Hope Family Center is a nationally recognized institute that has pioneered a community-supported, complete family approach to treatment and prevention.  Mt. Hope Preventive Programs provide resources parents and children need to build strong, healthy family and peer relationships.  All of the treatment programs are based on evidence-supported curricula. Services and programs include child and parent psychotherapy, parenting skills groups, and teen programs. <br><span style=\"font-weight: bold;\">Eligibility:<\/span> Serves families who have faced difficult circumstances, such as violence, maltreatment, loss, trauma, poverty, and drug and alcohol abuse.  Additionally, services are provided for children who are currently in foster care and those who are at risk for foster placement.  Support services also are provided for families who have military involvement and may have stress associated with parental deployment or other military-related challenges." 
               }
             },
@@ -1161,6 +1209,7 @@
                 "state": "NY",
                 "url": "https://www2.naz.edu/york-wellness-rehabilitation-institute/clinic-care/play-therapy/",
                 "icon": "icons/medical.png",
+                "category": "Early Childhood Services",
                 "info": "The Nazareth College Play Therapy Center The Play Therapy Center offers play therapy and affordable play therapy training for children, families, and professionals. Play therapy is appropriate for children experiencing a wide variety of social, emotional, behavioral, and learning problems, including anger management, grief and loss, divorce and family dissolution, physical and sexual abuse, domestic violence, crisis and trauma, anxiety, and depression.<br><span style=\"font-weight: bold;\">Eligibility:<\/span> Play therapy sessions are available for children ages 3 - 10." 
               }
             },
@@ -1184,6 +1233,7 @@
                 "state": "NY",
                 "url": "http://spirituschristiprisonoutreach.org/index.php/programs/nielsen",
                 "icon": "icons/medical.png",
+                "category": ["Parenting Resources", "Addiction", "Shelters/Short-term housing"],
                 "info": "The Nielsen House is a residential facility under the Spiritus Christi Prison Outreach Program. The Nielsen House provides shelter and a structured residential program for men upon their release from prison, jail, inpatient and the streets. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>  Nielsen House is available specifically for men who are released from jail. Acceptance criteria for men in the Nielsen House Program include an interview prior to admission.  Interviews are scheduled by the Program Staff for men who are interested in either the program at the Monroe County Jail or the Nielsen House Residency Program. The men who are accepted are required to live drug-free in a structured environment, and must be willing to receive chemical dependency evaluations and mental health evaluations, if necessary." 
               }
             },
@@ -1207,6 +1257,7 @@
                 "state": "NY",
                 "url": "http://www.nursefamilypartnership.org/locations/New-York/Monroe-County-NFP",
                 "icon": "icons/medical.png",
+                "category": ["Early Childhood Services", "Health_Medical", "Home VNS", "Parenting Resources"],
                 "info": "The Nurse Family Partnership Program (NFP) is a voluntary evidence-based nurse home visiting program that improves the health, well-being and self-sufficiency of low-income first-time parents and their children.  From pregnancy to the child’s 2 nd  birthday, specially trained nurses’ visit regularly with the mothers, fathers and extended family members to achieve the goals of improving pregnancy outcomes, improving child health and development and improving parents’ economic self-sufficiency. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>  NFP serves low-income (using federal poverty guidelines), first-time mothers and their children by providing nurse home visitation services beginning early in pregnancy and continuing through the first 2 years of a child’s life.  Women voluntarily enroll as early as possible in pregnancy, but no later than 28 weeks gestation. <br>span style=\"font-weight: bold;\">Call to enroll or to make a referral.<\/span>" 
               }
             },
@@ -1231,6 +1282,7 @@
                 "hours": "M 7:30 a.m. - 5:00 p.m., T 9:00 a.m. - 6:30 p.m., W 7:30 a.m. - 5:00 p.m., Th 7:30 a.m. - 5:30 p.m., F 8:00 a.m. - 4:30 p.m.",
                 "url": "https://www.plannedparenthood.org/health-center/new-york/rochester/14605/rochester-center---university-ave.-3332-91040",
                 "icon": "icons/medical.png",
+                "category": ["Parenting Resources", "AIDS/HIV Testing"],
                 "info": "Planned Parenthood is one of the nation's leading providers of high-quality, affordable health care for women, men, and young people, and the nation's largest provider of sex education. Planned Parenthood offers birth control, emergency contraception, HIV testing, STD testing, treatment and vaccines, pregnancy testing and services, abortion services, women's health care, men's health care, and rape and sexual assault support services. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>  Accepts most health insurance, including Medicaid. If you are uninsured, you may qualify for a state-funded program or a lower fee scale. If you are uninsured and wish to qualify for this program, please bring the following documents: birth certificate, pay stub, photo ID, and proof of residence. If you plan to pay for your visit with a credit card that is not your own, you must bring a letter from the cardholder with you. <br><a href=\"https://www.docasap.com/mobile/cobranding/docasap_doctor_practice_schedule.php?&key_pracId=3332&key_map=1&key_lang=English&_ga=1.42032101.1397171139.1448240580&key_partner=PPFA \">Make an appointment online\/a>"
               }
             },
@@ -1255,8 +1307,672 @@
                 "hours": "M 7:30 a.m. - 3:30 p.m., T 8:00 a.m. - 4:30 p.m., W 8:00 a.m. - 4:30 p.m., Th 10:00 a.m. - 6:30 p.m., F 8:00 a.m. - 4:30 p.m.",
                 "url": "https://www.plannedparenthood.org/health-center/new-york/rochester/14626/greece-center-2354-91040",
                 "icon": "icons/medical.png",
+                "category": ["Parenting Resources", "AIDS/HIV Testing"],
                 "info": "Planned Parenthood is one of the nation's leading providers of high-quality, affordable health care for women, men, and young people, and the nation's largest provider of sex education. Planned Parenthood offers birth control, emergency contraception, HIV testing, STD testing, treatment and vaccines, pregnancy testing and services, abortion services, women's health care and men's health care. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>  Accepts most health insurance, including Medicaid. If you are uninsured, you may qualify for a state-funded program or a lower fee scale. If you are uninsured and wish to qualify for this program, please bring the following documents: birth certificate, pay stub, photo ID, and proof of residence. If you plan to pay for your visit with a credit card that is not your own, you must bring a letter from the cardholder with you. <br><a href=\"https://www.docasap.com/mobile/cobranding/docasap_doctor_practice_schedule.php?&key_pracId=2354&key_map=1&key_lang=English&_ga=1.247009860.1397171139.1448240580&key_partner=PPFA \">Make an appointment online\/a>"
               }
             }
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.604568,
+                 43.142239
+                ]
+              },
+             "properties": {
+                "name": "Coffee Connection",
+                "phoneFormatted": "(585) 442-2180",
+                "phone": "5854422180",
+                "address": "681 South Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14620",
+                "state": "NY",
+                "hours": "M-F 7:00 a.m. - 6:00 p.m., Sat 8:00 a.m. - 5:00 p.m., Sun 9:00 a.m. - 3:00 p.m.",
+                "url": "http://ourcoffeeconnection.org/coffee-shops/south-avenue/",
+                "icon": "icons/addiction.png",
+                "category": "Addiction",
+                "info": "The Coffee Connection provides employment training and job creation for women in recovery from addiction and as a not-for-profit business sells fair trade, organic coffee to retail and wholesale customers. In partnership with Project Empower, the Coffee Connection provides comprehensive, continuous support for women on their journey toward sustainable recovery."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.550027,
+                 43.159147
+                ]
+              },
+             "properties": {
+                "name": "The Greenhouse Cafe Farm",
+                "phoneFormatted": "(585) 270-8603",
+                "phone": "5852708603",
+                "address": "2271 E. Main St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14609",
+                "state": "NY",
+                "hours": "M-W 7:00 a.m. - 7:00 p.m., Th 7:00 a.m. - 10:00 p.m., F 7:00 a.m. - 9:00 p.m., Sat 8:00 a.m. - 5:00 p.m., Sun 9:00 a.m. - 3:00 p.m.",
+                "url": "http://ourcoffeeconnection.org/coffee-shops/green-house-cafe/",
+                "icon": "icons/addiction.png",
+                "category": "Addiction",
+                "info": "The Greenhouse Cafe Farm provides employment training and job creation for women in recovery from addiction and as a not-for-profit business sells fair trade, organic coffee to retail and wholesale customers. In partnership with Project Empower, the Greenhouse Cafe Farm provides comprehensive, continuous support for women on their journey toward sustainable recovery."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.613434,
+                 43.251590
+                ]
+              },
+             "properties": {
+                "name": "Cannonball Cafe",
+                "phoneFormatted": "(585) 413-1102",
+                "phone": "5854131102",
+                "address": "4437 Lake Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14612",
+                "state": "NY",
+                "hours": "M-F 8:00 a.m. - 6:00 p.m., Sat 8:00 a.m. - 5:00 p.m., Sun 9:00 a.m. - 3:00 p.m.",
+                "url": "http://ourcoffeeconnection.org/coffee-shops/cannonball-cafe/",
+                "icon": "icons/addiction.png",
+                "category": "Addiction",
+                "info": "The Cannonball Cafe provides employment training and job creation for women in recovery from addiction and as a not-for-profit business sells fair trade, organic coffee to retail and wholesale customers. In partnership with Project Empower, the Cannonball Cafe provides comprehensive, continuous support for women on their journey toward sustainable recovery."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.6082969,
+                 43.1855373
+                ]
+              },
+             "properties": {
+                "name": "Bethany House of Sisters of St. Joseph of Rochester",
+                "phoneFormatted": "(585) 454-4197",
+                "phone": "5854544197",
+                "address": "1111 Joseph Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14621",
+                "state": "NY",
+                "url": "http://bethanyhouserocny.org/",
+                "icon": "icons/shelter.png",
+                "category": "Shelters/Short-term housing",
+                "info": "Bethany House is a Catholic Worker House of Hospitality sheltering homeless women and their children. Its primary focus is to serve the needs of women at least 21 years of age, with or without children. The door is always open to those in need, regardless of race, religion, or economic background. Bethany House also serves as a drop-in center for womena dn children during daytime hours Monday through Friday. It also operates an emergency food cupboard for women and children."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.617810,
+                 43.112785
+                ]
+              },
+             "properties": {
+                "name": "Childhood Lead Poisoning Prevention Program",
+                "phoneFormatted": "(585) 753-5087",
+                "phone": "5857535087",
+                "address": "451 E Henrietta Rd",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14620",
+                "state": "NY",
+                "url": "http://www.monroecounty.gov/eh-leadpoisoning.php%20",
+                "icon": "icon/medical.png",
+                "category": "Health_Medical",
+                "info": "Monroe County's Childhood Lead Poisoning Prevention Program maintains a database registry of more than 90,000 children who have been tested for elevated blood lead levels throughout Monroe County that includes all medical and environmental management information on each child. It provides medical case management and educational outreach to families for all children with blood lead levels >= 8 µg/dl (micrograms per deciliter). It conducts environmental investigations of primary and secondary residences of children 0-72 months of age with venous lead levels >= 8 µg/dl. Additionally, it provides community-wide education on lead poisoning issues to the general public, health professionals, property owners, painting contractors, parent groups, etc. Finally, it responds to complaints of improper/unsafe lead hazard control activities and issues Cease and Desist Orders to stop unsafe practices, order cleanup of lead contamination, and assures that cleanup is performed properly."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.587380,
+                 43.152621
+                ]
+              },
+             "properties": {
+                "name": "Genesee Community Charter School",
+                "phoneFormatted": "(585) 697-1960",
+                "phone": "5856971960",
+                "address": "657 East Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14607",
+                "state": "NY",
+                "url": "http://www.gccschool.org/",
+                "icon": "icon/school.png",
+                "category": "Rochester City School District",
+                "info": "The Genesee Community Charter School - among the highest performing EL Education schools in the nation - is located on the campus of the Rochester Museum & Science Center. As a charter school, Genesee Community Charter School is publicly funded and there is no tuition.  Enrollment is open to all city of Rochester residents, and a lottery is held in April of each year for incoming kindergarten students and for vacancies as they are available in first through fifth grades. Admission to GCCS is not restricted based on a student’s intellectual ability, disability, race, ethnic background, or religion.  However, preference among applicants is given to siblings of GCCS students and, if open spaces remain, to children of staff members and, if spaces remain, to applicants who are residents of the Rochester City School District.  Suburban students are welcome to apply, but are enrolled after all RCSD applicants. A new application must be made each year; applications do not roll over from year to year."
+              }
+            },
+             {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.634566,
+                 43.150364
+                ]
+              },
+             "properties": {
+                "name": "Health Care for the Homeless",
+                "phoneFormatted": "(585) 368-3720",
+                "phone": "5853683720",
+                "address": "819 West Main St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14611",
+                "state": "NY",
+                "url": "http://www.unityhealth.org/community/services_community_homeless.aspx",
+                "icon": "icon/medical.png",
+                "category": ["Health_Medical", "Outreach"],
+                "info": "The Health Care for the Homeless Program (HCHP) provides comprehensive health care services for the homeless or those at-risk for homelessness in the city of Rochester and the greater Rochester area. The HCHP will, through its outreach model, seek to improve access to comprehensive medical care for the homeless individual, while simultaneously affording each individual access to services needed to obtain gainful employment, permanent housing and other resources that may be beneficial to their individual situation, without regard to the individual’s ability to pay."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.634566,
+                 43.150364
+                ]
+              },
+             "properties": {
+                "name": "Health Care for the Homeless",
+                "phoneFormatted": "(585) 368-3720",
+                "phone": "5853683720",
+                "address": "819 West Main St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14611",
+                "state": "NY",
+                "url": "http://www.unityhealth.org/community/services_community_homeless.aspx",
+                "icon": "icon/medical.png",
+                "category": ["Health_Medical", "Outreach"],
+                "info": "The Health Care for the Homeless Program (HCHP) provides comprehensive health care services for the homeless or those at-risk for homelessness in the city of Rochester and the greater Rochester area. The HCHP will, through its outreach model, seek to improve access to comprehensive medical care for the homeless individual, while simultaneously affording each individual access to services needed to obtain gainful employment, permanent housing and other resources that may be beneficial to their individual situation, without regard to the individual’s ability to pay."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.580494,
+                  43.136078
+                ]
+              },
+             "properties": {
+                "name": "Hillside Children's Center",
+                "phoneFormatted": "(585) 256-7500",
+                "phone": "5852567500",
+                "address": "1183 Monroe Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14620",
+                "state": "NY",
+                "url": "https://www.hillside.com/about-us/family-agencies/hcc-affiliate/",
+                "icon": "icons/counsel.png",
+                "category": ["Early Childhood Services", "Family Centers", "Health_Medical", "Children's Centers"],
+                "info": "Hillside Children’s Center (HCC) is a provider of care for youth and families with a wide range of emotional, behavioral, or life-circumstance challenges. HCC offers mental health, child welfare, juvenile justice, special education, safety net, and developmental disabilities services to children and families throughout Central and Western New York. Comprehensive pediatric, psychiatric, and medical consultation and coordination services are also provided. HCC services are customized based on the strengths and needs of individual youth, families, and communities."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.612129,
+                  43.153500
+                ]
+              },
+             "properties": {
+                "name": "Monroe County Family Courts",
+                "phoneFormatted": "(585) 371-3544",
+                "phone": "5853713544",
+                "address": "99 Exchange Blvd, Room 360 ",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14614",
+                "state": "NY",
+                "hours": "M-F 9:00 a.m. - 5:00 p.m.",
+                "url": "https://www.nycourts.gov/courts/7jd/courts/family/county/Monroe/index.shtml",
+                "icon": "icons/counsel.png",
+                "category": "Legal_Emergency Services",
+                "info": "The Monroe County Family Courts hear matters involving children and faimlies. It has the authority to make legal decisions over child protective proceedings, adoption, custody and visitation, domestic violence, juvenile delinquency, guardianship, persons in need of supervision, child and/or spousal support, and paternity."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.606570,
+                  43.148914
+                ]
+              },
+             "properties": {
+                "name": "REACH Program @ Bivona Child Advocacy Center",
+                "phoneFormatted": "(585) 935-7802",
+                "phone": "5859357802",
+                "address": "1 Mount Hope Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14620",
+                "state": "NY",
+                "hours": "M-F 8:00 a.m. - 4:30 p.m.",
+                "url": "https://www.urmc.rochester.edu/childrens-hospital/community-outreach-programs/reach-program.aspx",
+                "icon": "icons/youth.png",
+                "category": ["Legal_Emergency Services", "Domestic Violence"],
+                "info": "REACH is a Referral and Evaluation service for Abused Children. A team of social workers and pediatric health care providers are specially trained to care for children who may have been physically or sexually abused. The program provides psychosocial assessments, interviews and medical examinations. To have a child seen at the REACH program, the Primary Care Provider should contact the program at the number above. Referrals can also be made by other professionals in the community such as law enforcement, Child Protective Services and Mental Health Providers."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.503087,
+                  43.122807
+                ]
+              },
+             "properties": {
+                "name": "Regional Early Childhood Direction Center (RECDC)",
+                "phoneFormatted": "(585) 249-7817",
+                "phone": "5852497817",
+                "address": "15 Linden Park",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14625",
+                "state": "NY",
+                "hours": "M-F 7:30 a.m. - 4:00 p.m.",
+                "url": "http://www.monroe.edu/webpages/recdc/",
+                "icon": "icons/youth.png",
+                "category": ["Advocacy", "Legal_Emergency Services", "Developmental Disabilities", "Early Childhood Services", "Health_Medical", "Parenting Resources"],
+                "info": "The Regional Early Childhood Direction Center (RECDC) is a grant funded program that provides a wealth of information to families and providers of children with special needs. RECDC continues to support families by providing information and assists in linking them to needed programs and services, such as counseling, developmental evaluations, family support services, legal and financial support, and parent education programs. In addition, RECDC offers support to programs that provide services to young children by offering technical assistance, and training across an 11 county region."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.635734,
+                  43.142451
+                ]
+              },
+             "properties": {
+                "name": "Teen Empowerment",
+                "phoneFormatted": "(585) 697-3464",
+                "phone": "5856973464",
+                "address": "392 Genesee St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14611",
+                "state": "NY",
+                "url": "http://www.teenempowerment.org/rochester.html",
+                "icon": "icons/youth.png",
+                "category": ["Children's Centers", "Outreach"],
+                "info": "Teen Empowerment (TE) inspires young people, and the adults who work with them, to think deeply about the most difficult social problems in their communities, and gives them the tools they need to work with others in creating significant positive change. TE hires 12 paid youth, ages 14-21, and trains them as community organizers, providing them with the support, resources, and ongoing training they need to organize initiatives that involve both youth and adults in addressing community issues."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.634482,
+                  43.145093
+                ]
+              },
+             "properties": {
+                "name": "Joseph C. Wilson Foundation Academy",
+                "phoneFormatted": "(585) 463-4100",
+                "phone": "5854634100",
+                "address": "200 Genesee St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14611",
+                "state": "NY",
+                "url": "http://www.rcsdk12.org/WilsonFoundation",
+                "icon": "icons/school.png",
+                "category": "Rochester City School District",
+                "info": "Joseph C. Wilson Foundation Academy is an International Baccalaureate (IB) world school, where the students are responsible for their own learning, choosing topics and devising their own projects, while teachers act more as supervisors or mentors than sources of facts. IB emphasizes research and encourages students to learn from their peers, with students actively critiquing one another's work. The Wilson community, scholars, parents and faculty are com­mitted to providing a rigorous academic program that ensures that each of the graduates is prepared to participate fully and with confidence at the college, university or career of their choice. They are committed to creating an environment that promotes academic excellence, fosters an active appreciation of multiculturalism, and develops scholars' sense of personal responsibility. Wilson educates grades K through 4, 7, and 8, and will be transitioning to serve grades K-8."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.637175,
+                  43.148444
+                ]
+              },
+             "properties": {
+                "name": "Women, Infants, and Children (WIC)",
+                "phoneFormatted": "(585) 753-4942",
+                "phone": "5857534942",
+                "address": "89 Genesee St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14611",
+                "state": "NY",
+                "hours": "M-F 7:45 a.m. - 4:30 p.m., closed 12:30-1 for lunch; Two Tuesdays a month 7:45 a.m. - 6:30 p.m., open through lunch; One Saturday a month 8:15 a.m. - 4:00 p.m., closed 12:00-1:00 for lunch",
+                "url": "http://www2.monroecounty.gov/health-family.php#WIC",
+                "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Foodbanks", "Parenting Resources"],
+                "info": "The WIC Program is a supplemental food and nutrition education program that serves pregnant, breastfeeding, postpartum women, infants, and children up to the age of five. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Must be a resident of New York State and have a household income of less than 185% of the poverty level."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.565017,
+                  43.184127
+                ]
+              },
+             "properties": {
+                "name": "Women, Infants, and Children (WIC)",
+                "phoneFormatted": "(585) 753-4942",
+                "phone": "5857534942",
+                "address": "250 Waring Rd",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14609",
+                "state": "NY",
+                "hours": "M-F 7:45 a.m. - 4:30 p.m., closed 12:30-1 for lunch; Two Wednesdays a month 7:45 a.m. - 6:30 p.m., open through lunch; One Saturday a month 8:15 a.m. - 4:00 p.m., closed 12:00-1:00 for lunch",
+                "url": "http://www2.monroecounty.gov/health-family.php#WIC",
+                "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Foodbanks", "Parenting Resources"],
+                "info": "The WIC Program is a supplemental food and nutrition education program that serves pregnant, breastfeeding, postpartum women, infants, and children up to the age of five. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Must be a resident of New York State and have a household income of less than 185% of the poverty level."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.632865,
+                  43.171752
+                ]
+              },
+             "properties": {
+                "name": "Women, Infants, and Children (WIC)",
+                "phoneFormatted": "(585) 753-4942",
+                "phone": "5857534942",
+                "address": "41 Backus St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14608",
+                "state": "NY",
+                "hours": "Two Wednesdays a month 8:45 a.m. - 4:00 p.m., closed 12:00-12:30 for lunch",
+                "url": "http://www2.monroecounty.gov/health-family.php#WIC",
+                "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Foodbanks", "Parenting Resources"],
+                "info": "The WIC Program is a supplemental food and nutrition education program that serves pregnant, breastfeeding, postpartum women, infants, and children up to the age of five. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Must be a resident of New York State and have a household income of less than 185% of the poverty level."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.750997,
+                  43.101843
+                ]
+              },
+             "properties": {
+                "name": "Women, Infants, and Children (WIC)",
+                "phoneFormatted": "(585) 753-4942",
+                "phone": "5857534942",
+                "address": "3235 Chili Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14624",
+                "state": "NY",
+                "hours": "Two Tuesdays a month 8:45 a.m. - 4:00 p.m., closed 12:00-12:30 for lunch",
+                "url": "http://www2.monroecounty.gov/health-family.php#WIC",
+                "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Foodbanks", "Parenting Resources"],
+                "info": "The WIC Program is a supplemental food and nutrition education program that serves pregnant, breastfeeding, postpartum women, infants, and children up to the age of five. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Must be a resident of New York State and have a household income of less than 185% of the poverty level."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.619621,
+                  43.118467
+                ]
+              },
+             "properties": {
+                "name": "Women, Infants, and Children (WIC)",
+                "phoneFormatted": "(585) 753-4942",
+                "phone": "5857534942",
+                "address": "1600 Mt. Hope Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14620",
+                "state": "NY",
+                "hours": "Four Mondays a month 8:45 a.m. - 4:00 p.m., closed 12:00-12:30 for lunch",
+                "url": "http://www2.monroecounty.gov/health-family.php#WIC",
+                "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Foodbanks", "Parenting Resources"],
+                "info": "The WIC Program is a supplemental food and nutrition education program that serves pregnant, breastfeeding, postpartum women, infants, and children up to the age of five. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Must be a resident of New York State and have a household income of less than 185% of the poverty level."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.660235,
+                  43.238902
+                ]
+              },
+             "properties": {
+                "name": "Women, Infants, and Children (WIC)",
+                "phoneFormatted": "(585) 753-4942",
+                "phone": "5857534942",
+                "address": "4301 Mt Read Blvd",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14616",
+                "state": "NY",
+                "hours": "Four Thursdays and one Tuesday a month 8:45 a.m. - 4:00 p.m., closed 12:00-12:30 for lunch",
+                "url": "http://www2.monroecounty.gov/health-family.php#WIC",
+                "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Foodbanks", "Parenting Resources"],
+                "info": "The WIC Program is a supplemental food and nutrition education program that serves pregnant, breastfeeding, postpartum women, infants, and children up to the age of five. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Must be a resident of New York State and have a household income of less than 185% of the poverty level."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.620368,
+                  43.046581
+                ]
+              },
+             "properties": {
+                "name": "Women, Infants, and Children (WIC)",
+                "phoneFormatted": "(585) 753-4942",
+                "phone": "5857534942",
+                "address": "3825 E Henrietta Rd",
+                "city": "Henrietta",
+                "country": "United States",
+                "postalCode": "14467",
+                "state": "NY",
+                "hours": "One Wednesday a month 8:45 a.m. - 4:00 p.m., closed 12:00-12:30 for lunch",
+                "url": "http://www2.monroecounty.gov/health-family.php#WIC",
+                "icon": "icons/baby.png",
+                "category": ["Early Childhood Services", "Foodbanks", "Parenting Resources"],
+                "info": "The WIC Program is a supplemental food and nutrition education program that serves pregnant, breastfeeding, postpartum women, infants, and children up to the age of five. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Must be a resident of New York State and have a household income of less than 185% of the poverty level."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.614607,
+                  43.122619
+                ]
+              },
+             "properties": {
+                "name": "Starbridge",
+                "phoneFormatted": "(585) 546-1700",
+                "phone": "5855461700",
+                "address": "1650 South Ave, Ste 200",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14620",
+                "state": "NY",                
+                "url": "http://www.starbridgeinc.org/",
+                "icon": "icons/disability.png",
+                "category": ["Advocacy", "Developmental Disabilities", "Legal_Emergency Services"],
+                "info": "Starbridge is a collaboration of The Advocacy Center and LDA Life and Learning Services established to partner with people with disabilities, their families, and others who support them, to realize fulfilling possibilities in education, employment, health, and community living."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.721271,
+                  42.999361
+                ]
+              },
+             "properties": {
+                "name": "Monroe County Children's Detention Center",
+                "phoneFormatted": "(585) 753-5940",
+                "phone": "5857535940",
+                "address": "375 Rush Scottsville Rd",
+                "city": "Rush",
+                "country": "United States",
+                "postalCode": "14543",
+                "state": "NY",                
+                "url": "http://www.rcsdk12.org/Page/22082",
+                "icon": "icons/school.png",
+                "category": "DayCare Services",
+                "info": "The Youth and Justice Program is responsible to provide core academic instruction to students in grades 6-12.  These students have been placed temporarily in the Monroe County Children's Detention Center by the Juvenile Justice system pending a decision regarding their individual situations.  This program is a partnership between Monroe County and the Rochester City School District. <br><span style=\"font-weight: bold;\">Eligibility:<\/span>Age 10-18, alleged juvenile delinquent or juvenile offender awaiting Family Court or Criminal Court action."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.625145,
+                  43.184494
+                ]
+              },
+             "properties": {
+                "name": "Rochester School for the Deaf",
+                "phoneFormatted": "(585) 544-1240",
+                "phone": "5855441240",
+                "videophoneFormatted": "(585) 286-2808",
+                "videophone": "5852862808",
+                "address": "1545 St Paul St",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14621",
+                "state": "NY",                
+                "url": "http://www.rsdeaf.org/",
+                "icon": "icons/school.png",
+                "category": ["Developmental Disabilities", "Rochester City School District"],
+                "info": "The Rochester School for the Deaf (RSD) was created to educate deaf students. It is an inclusive environment where children who are deaf and hard-of-hearing can access an extraordinary, rich, Regents-level education, and families can access professionals who have the skills, dedication and desire to help build their children's successful future."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.617889,
+                  43.152171
+                ]
+              },
+             "properties": {
+                "name": "Successful Pathways of YFC",
+                "phoneFormatted": "(585) 235-3248",
+                "phone": "5852353248",                
+                "address": "15 Boys Club Pl",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14608",
+                "state": "NY",                
+                "url": "http://www.yfcsuccessfulpathways.org/",
+                "icon": "icons/youth.png",
+                "category": ["Advocacy", "Parenting Resources"],
+                "info": "Successful Pathways is a ministry of Rochester Youth for Christ formed to equip youth with the skills necessary to move from dependence to independence. They provide support services to teen parents both male and female, as well as providing preventive services to teens that may be at risk for early parenting. The agency directs its services to those who live within the Rochester City limits."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.625301,
+                  43.168478
+                ]
+              },
+             "properties": {
+                "name": "Volunteers of America",
+                "phoneFormatted": "(585) 647-1150",
+                "phone": "5856471150",                
+                "address": "214 Lake Ave, Admin Bldg C",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14608",
+                "state": "NY",                
+                "url": "http://www.voaupny.org/",
+                "icon": "icons/support.png",
+                "category": ["Adult/Elder Services", "Outreach", "Early Childhood Services", "Family Centers"],
+                "info": "Volunteers of America Upstate New York assists more than 6,000 people every year through the folowing programs: child care and early childhood development programs, academically-enriched after school programs, housing and support services for homeless individuals and families, reentry programs for individuals leaving correctional facilities, empowerment programs for women who are or have been incarcerated, employment services, lifeskills training, food pantry, and homeslessness prevention services."
+              }
+            },
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -77.608227,
+                  43.168365
+                ]
+              },
+             "properties": {
+                "name": "Wilson Commencement Park",
+                "phoneFormatted": "(585) 263-7930",
+                "phone": "5852637930",                
+                "address": "251 Joseph Ave",
+                "city": "Rochester",
+                "country": "United States",
+                "postalCode": "14605",
+                "state": "NY",                
+                "url": "http://www.wilsoncommencementpark.com/",
+                "icon": "icons/shelter.png",
+                "category": "Shelters/Short-term housing",
+                "info": "Wilson Commencement Park (WCP) was established to help low-income, single-parent families transition from public assistance to financial independence and personal self-sufficiency. WCP is a transitional, drug-free program. It is a self-contained “community” where residents can live for 24 month in attractive and affordable housing and receive comprehensive care management, educational and life skills support, career-development assistance, and eventual placement in “next step” permanent housing. <br><a href=\"http://www.wilsoncommencementpark.com/family-support-services-2/supportive-housing/ \">Application<\/a>"
+              }
+            },
           ]
         }
