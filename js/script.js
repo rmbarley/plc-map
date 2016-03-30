@@ -47,6 +47,40 @@ new L.Control.Zoom({
   position: 'topright'
 }).addTo(map);
 
+var arr = {
+  "type": "FeatureCollection",
+  "features": []
+};
+
+var getData = function() {
+  $.ajax({
+    url: 'http://api.rgrta.com/rtstops?key=Yc73J9d0svq',
+    type: "GET",
+    dataType: 'jsonp',
+    success: function(data) {
+      data.forEach(function(stop) {
+        var obj = {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [Number(stop.StopLat), Number(stop.StopLon)]
+          },
+          "properties": {
+            "name": stop.StopId,
+            "description": stop.StopName,
+             "icon": {
+              "className": "bus-icon", // class name to style
+              "html": "&#9733;", // add content inside the marker
+              "iconSize": null // size of icon, use null to set the size in CSS
+            }
+          }
+        };
+        arr.features.push(obj);
+      });
+    }
+  });
+}();
+
 var services = document.getElementById('services');
 var locations = L.mapbox.featureLayer().addTo(map);
 locations.loadURL('data.geojson');
